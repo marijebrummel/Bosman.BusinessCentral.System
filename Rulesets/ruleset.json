@@ -1,0 +1,22 @@
+{
+    "name": "BC",
+    "description": "Rules",
+    "generalAction": "hidden",
+    "rules": [
+        {
+            "id": "AA0215",
+            "action": "hidden",
+            "justification": "No page captions needed for API's."
+        },
+        {
+            "id": "AA0218",
+            "action": "hidden",
+            "justification": "No page tooltips needed for API's."
+        },
+        {
+            "id": "AA0072",
+            "action": "Hidden",
+            "justification": "Variables don't need prefixes."
+        }
+    ]
+}

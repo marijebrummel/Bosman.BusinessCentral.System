@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="nl-NL" original="Core.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2640128504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FTP Settings</source>
+          <target>FTP-instellingen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE FTP Settings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2640128504 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE FTP Settings - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2640128504 - Field 1297774879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Password (Name of the Azure KeyVault Secret)</source>
+          <target>Wachtwoord (Naam van de Azure KeyVault Secret)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE FTP Settings - Field Password KV Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2640128504 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target>Soort</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE FTP Settings - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2640128504 - Field 2157995976 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Name (Name of the Azure KeyVault Secret)</source>
+          <target>Gebruikersnaam (Naam van de Azure KeyVault Secret)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE FTP Settings - Field User Name KV Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1580388240 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Functional Log Entry</source>
+          <target>Functionele logpost</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Functional Log Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1580388240 - Field 1249475212 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created</source>
+          <target>Aangemaakt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Functional Log Entry - Field Created - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1580388240 - Field 1651921640 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department</source>
+          <target>Afdeling</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Functional Log Entry - Field Department - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1580388240 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Omschrijving</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Functional Log Entry - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1580388240 - Field 2248886284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <target>Fout</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Functional Log Entry - Field Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1580388240 - Field 2815593035 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Message</source>
+          <target>Laatste bericht</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Functional Log Entry - Field Last Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1580388240 - Field 3776794752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User</source>
+          <target>Gebruiker</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Functional Log Entry - Field User Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1580388240 - Field 3955473374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warning</source>
+          <target>Waarschuwing</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Functional Log Entry - Field Warning - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2390374402 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Functional Log Entry Line</source>
+          <target>Functionele logregel</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Functional Log Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2390374402 - Field 1249475212 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created</source>
+          <target>Aangemaakt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Functional Log Line - Field Created - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2390374402 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>Regelnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Functional Log Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2390374402 - Field 2034429472 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Type</source>
+          <target>Logsoort</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Functional Log Line - Field Log Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2390374402 - Field 3080618677 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Omschrijving</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Functional Log Line - Field Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2390374402 - Field 1618224966 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object No.</source>
+          <target>Objectnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Functional Log Line - Field Object No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2390374402 - Field 1085746399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object Type</source>
+          <target>Objecttype</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Functional Log Line - Field Object Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2390374402 - Field 3659147330 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process Id</source>
+          <target>Proces-id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Functional Log Line - Field Process Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2390374402 - Field 3776794752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User</source>
+          <target>Gebruiker</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Functional Log Line - Field User Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 924960576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Core Setup</source>
+          <target>Core Instellingen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 924960576 - Field 3264110187 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Base URL</source>
+          <target>API Basis URL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Setup - Field BC Connect API Base URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 924960576 - Field 1705678046 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Api Key (Name of the Azure KeyVault Secret)</source>
+          <target>Api Key (Naam van de Azure KeyVault Secret)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Setup - Field BC Connect Api Key KV Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 924960576 - Field 135407660 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default File Share</source>
+          <target>Standaard Fileshare</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Setup - Field Default File Share - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 924960576 - Field 3765080749 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Storage Account</source>
+          <target>Standaard Storage-account</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Setup - Field Default Storage Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 924960576 - Field 2737738244 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Functional Logging Active</source>
+          <target>Functioneel loggen ingeschakeld</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Setup - Field Functional Logging Active - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 924960576 - Field 2271046280 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Technical Logging Active</source>
+          <target>Technisch loggen ingeschakeld</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Setup - Field Technical Logging Active - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 149082292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Technical Log Entry</source>
+          <target>Technische logpost</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Technical Log Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 149082292 - Field 633175764 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Body</source>
+          <target>Hoofdtekst</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Technical Log Entry - Field Body - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 149082292 - Field 1249475212 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created</source>
+          <target>Aangemaakt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Technical Log Entry - Field Created - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 149082292 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>Volgnummer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Technical Log Entry - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 149082292 - Field 1789400218 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Level</source>
+          <target>Niveau</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Technical Log Entry - Field Level - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 149082292 - Field 3080618677 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Message</source>
+          <target>Bericht</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Technical Log Entry - Field Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 149082292 - Field 2206733951 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Path</source>
+          <target>Pad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Technical Log Entry - Field Path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 149082292 - Field 2187938695 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service</source>
+          <target>Service</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Technical Log Entry - Field Service - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 149082292 - Field 2379948459 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status Code</source>
+          <target>Statuscode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Technical Log Entry - Field Status Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 149082292 - Field 2788029273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status Code Description</source>
+          <target>Statuscode-omschrijving</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CORE Technical Log Entry - Field Status Code Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 300477303 - Method 1561766673 - NamedType 232778209" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invalid JSON response content.</source>
+          <target>Ongeldige JSON-response-inhoud</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CORE API Helper - Method Execute - NamedType InvalidResponseErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 300477303 - Method 1561766673 - NamedType 1366197332" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unexpected error while connecting to the API.</source>
+          <target>Onverwachte fout tijdens verbinden met de API.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CORE API Helper - Method Execute - NamedType UnexpectedErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 300477303 - Method 1561766673 - NamedType 376675608" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calling API failed.</source>
+          <target>Aanroepen van API mislukt.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CORE API Helper - Method Execute - NamedType CallFailedErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2743705769 - NamedType 1366197332" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unexpected error while connecting to the API.</source>
+          <target>Onverwachte fout tijdens verbinden met de API.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CORE Azure Blob Helper - NamedType UnexpectedErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 727544273 - Method 1417041028 - NamedType 1334027089" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request failed with status code %1</source>
+          <target>Aanvraag mislukt met statuscode %1</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Status Code</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CORE Azure FileShare Helper - Method GetFile - NamedType RequestFailedErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 727544273 - Method 1417041028 - NamedType 3759908180" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Azure File Share %1\%2</source>
+          <target>Azure Fileshare %1\%2</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Storage Account, %2 = File Share</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CORE Azure FileShare Helper - Method GetFile - NamedType AzureFileShareLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1960645505 - Method 3150011536 - NamedType 3529279171" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FileName cannot be empty when downloading the JSON contents of one single file.</source>
+          <target>Bestandnaam mag niet leeg zijn wanneer de JSON-inhoud van 1 specifiek bestand opgehaald wordt.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CORE FTP Helper - Method DownloadJSON - NamedType FileNameEmptyErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1960645505 - Method 1898252047 - NamedType 3529279171" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FileName cannot be empty when downloading the XML contents of one single file.</source>
+          <target>Bestandnaam mag niet leeg zijn wanneer de XML-inhoud van 1 specifiek bestand opgehaald wordt.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CORE FTP Helper - Method DownloadXML - NamedType FileNameEmptyErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1960645505 - Method 701918397 - NamedType 1869981609" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FTP - %1</source>
+          <target>FTP - %1</target>
+          <note from="Developer" annotates="general" priority="2">%1 = FTPSetting."No."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CORE FTP Helper - Method Upload - NamedType ServiceLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1960645505 - Method 701918397 - NamedType 2999392475" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 - FTP Upload Error</source>
+          <target>%1 - FTP Uploadfout</target>
+          <note from="Developer" annotates="general" priority="2">%1 = FileName</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CORE FTP Helper - Method Upload - NamedType ErrorMessageLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2021838724 - Method 2396480973 - NamedType 1054991127" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value %1 does not exist for %2.</source>
+          <target>Waarde %1 bestaat niet voor %2.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Value, %2 = Option FieldCaption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CORE General Helpers - Method GetOptionIndex - NamedType OptionDoesNotExistErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3453952895 - NamedType 1429534520" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Could not cast value %1 to %2.</source>
+          <target>Kon waarde %1 niet omzetten naar %2</target>
+          <note from="Developer" annotates="general" priority="2">%1=The source type,%2=The destination type</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CORE JSON Helper - NamedType CouldNotCastErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2246360028 - Method 4281749787 - NamedType 3908070085" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unable to retrieve a secret value from the Key Vault</source>
+          <target>Niet gelukt een secret op te halen uit te KeyVault.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CORE Key Vault Helper - Method LogKeyVaultError - NamedType RetrieveErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3473756675 - Method 1440017566 - NamedType 1338526434" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Downloading %1 from %2.</source>
+          <target>Downloaden %1 van %2.</target>
+          <note from="Developer" annotates="general" priority="2">%1=The entity, %2 = The source</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CORE Progress Bar Helper - Method InitDownloadProgressBar - NamedType DownloadingLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3473756675 - Method 1424861778 - NamedType 2779639592" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2.</source>
+          <target>%1 %2</target>
+          <note from="Developer" annotates="general" priority="2">%1 = The message, %2 = The entity</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CORE Progress Bar Helper - Method InitProgressBarPercentage - NamedType ProgressMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3473756675 - Method 3019537087 - NamedType 2391296031" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Current progress: %1%</source>
+          <target>Huidige vooruitgang: %1%</target>
+          <note from="Developer" annotates="general" priority="2">%1=The current percentage</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CORE Progress Bar Helper - Method UpdateProgressBarPercentage - NamedType CurrentProgressMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3838121210 - NamedType 1803812000" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request failed with HTTP Code: %1 Request Body: %2</source>
+          <target>Verzoek mislukt met HTTP-code: %1, verzoekinhoud: %2.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = HttpCode, %2 = RequestBody</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CORE SOAP Mgt. - NamedType RequestErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3838121210 - NamedType 2185186290" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unsuportted content to send.</source>
+          <target>Niet ondersteunde inhoud.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CORE SOAP Mgt. - NamedType UnsupportedContentToSendErr</note>
+        </trans-unit>
+        <trans-unit id="Page 3651685898 - Action 1514883969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup</source>
+          <target>Instellingen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE BPD Manager - Action Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3651685898 - Action 1355574935 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Asker General Setup</source>
+          <target>Asker Algemene Instellingen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE BPD Manager - Action Setup BC Core - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2640128504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FTP Settings</source>
+          <target>FTP-instellingen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE FTP Settings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2640128504 - Control 1977021340 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Host field.</source>
+          <target>Spcificeert de waarde van het host-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE FTP Settings - Control Host - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2640128504 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <target>Spcificeert de waarde van het nr.-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE FTP Settings - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2640128504 - Control 1297774879 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Password KV Name field.</source>
+          <target>Spcificeert de waarde van het wachtwoord-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE FTP Settings - Control Password KV Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2640128504 - Control 1878130204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Type field.</source>
+          <target>Spcificeert de waarde van het soort-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE FTP Settings - Control Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2640128504 - Control 2157995976 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the User Name KV Name field.</source>
+          <target>Spcificeert de waarde van het gebruikersnaam-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE FTP Settings - Control User Name KV Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 202228974 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Functional Log Entries</source>
+          <target>Functionele logposten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Functional Log Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 202228974 - Control 1249475212 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Created field.</source>
+          <target>Specificeert de waarde van het aangemaakt-veld</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Functional Log Entries - Control Created - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 202228974 - Control 1651921640 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Department field.</source>
+          <target>Specificeert de waarde van het afdeling-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Functional Log Entries - Control Department - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 202228974 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <target>Specificeert de waarde van het omschrijving-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Functional Log Entries - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 202228974 - Control 2248886284 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if (Critical) Error lines exist for the entry.</source>
+          <target>Specificeert of er (kritieke) fout-regels bestaan voor de post.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Functional Log Entries - Control Error - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 202228974 - Control 3776794752 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the User field.</source>
+          <target>Specificeert de waarde van het gebruiker-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Functional Log Entries - Control User Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 202228974 - Control 3955473374 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if Warning lines exist for the entry.</source>
+          <target>Specificeert of er waarschuwingen bestaan voor de post.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Functional Log Entries - Control Warning - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1580388240 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Functional Log Entry </source>
+          <target>Functionele logpost</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Functional Log Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1580388240 - Control 1651921640 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Department field.</source>
+          <target>Specificeert de waarde van het afdeling-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Functional Log Entry - Control Department - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1580388240 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <target>Specificeert de waarde van het omschrijving-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Functional Log Entry - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1580388240 - Control 3776794752 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the User field.</source>
+          <target>Specificeert de waarde van het gebruiker-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Functional Log Entry - Control User Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3219555823 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Functional Log Lines</source>
+          <target>Functionele logposten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Functional Log Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3219555823 - Method 1374582116 - NamedType 3415447349" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Callstack - %1.txt</source>
+          <target>Callstack - %1.txt</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Current DateTime</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Functional Log Lines - Method DownloadCallStack - NamedType FileNameLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 3219555823 - Control 2993049680 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Call Stack field.</source>
+          <target>Spcificeert de waarde van het callstack-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Functional Log Lines - Control CallStackTxt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3219555823 - Control 2993049680 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Call Stack</source>
+          <target>Call Stack</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Functional Log Lines - Control CallStackTxt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3219555823 - Control 1249475212 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Created field.</source>
+          <target>Specificeert de waarde van het aangemaakt-veld</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Functional Log Lines - Control Created - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3219555823 - Control 2034429472 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Log Type field.</source>
+          <target>Specificeert de waarde van het logtype-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Functional Log Lines - Control Log Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3219555823 - Control 3080618677 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <target>Specificeert de waarde van het omschrijving-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Functional Log Lines - Control Message - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3219555823 - Control 1618224966 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Object No. field.</source>
+          <target>Specificeert de waarde van het objectnr.-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Functional Log Lines - Control Object No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3219555823 - Control 1085746399 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Object Type field.</source>
+          <target>Specificeert de waarde van het objecttype-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Functional Log Lines - Control Object Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3488128393 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Queue Entries Overview</source>
+          <target>Taakwachtrijposten-overzicht</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Job Queue Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3488128393 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description of the job queue entry. You can edit and update the description on the job queue entry card. The description is also displayed in the Job Queue Entries window, but it cannot be updated there.</source>
+          <target>Hiermee wordt een omschrijving opgegeven van het taakwachtrij-item. U kunt de omschrijving bewerken en bijwerken op de itemkaart van de taakwachtrij. De omschrijving wordt ook weergegeven in het venster Taakwachtrij-items, maar kan daar niet worden bijgewerkt.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Job Queue Entries - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3488128393 - Control 6461729 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the earliest date and time when the dimension correction should be run.  The format for the date and time must be month/day/year hour:minute, and then AM or PM. For example, 3/10/2021 12:00 AM.</source>
+          <target>Specificeert de eerst mogelijke startdatum en tijd wanneer de dimensie-correctie uitgevoerd moet worden. De format voor de datum en tijd moet zijn maand/dag/jaar uur:minuut gevolgd door AM of PM. Bijvoorbeeld 3/10/2021 12:00 AM.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Job Queue Entries - Control Earliest Start Date/Time - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3488128393 - Control 909141965 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the minimum number of minutes that are to elapse between runs of a job queue entry. This field only has meaning if the job queue entry is set to be a recurring job.</source>
+          <target>Hiermee wordt het minimale aantal minuten opgegeven dat moet verstrijken tussen uitvoeringen van een taakwachtrij-item. Dit veld heeft slechts betekenis als het taakwachtrij-item is ingesteld op een doorlopende taak.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Job Queue Entries - Control No. of Minutes between Runs - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3488128393 - Control 3371015643 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the object that is selected in the Object ID to Run field.</source>
+          <target>Hiermee wordt de naam opgegeven van het object dat is geselecteerd in het veld Uit te voeren object (id).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Job Queue Entries - Control Object Caption to Run - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3488128393 - Control 1577117606 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the ID of the object that is to be run for this job. You can select an ID that is of the object type that you have specified in the Object Type to Run field.</source>
+          <target>Hiermee wordt de id opgegeven van het object dat moet worden uitgevoerd voor deze taak. U kunt een id selecteren van het objecttype dat u hebt opgegeven in het veld Uit te voeren objecttype.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Job Queue Entries - Control Object ID to Run - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3488128393 - Control 994380745 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the type of the object, report or codeunit, that is to be run for the job queue entry. After you specify a type, you then select an object ID of that type in the Object ID to Run field.</source>
+          <target>Hiermee wordt het soort object, rapport of codeunit, opgegeven dat moet worden uitgevoerd voor het taakwachtrij-item. Nadat u een soort hebt opgegeven, selecteert u een object-id van dat soort in het veld Uit te voeren object (id).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Job Queue Entries - Control Object Type to Run - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3488128393 - Control 3936006082 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the job queue entry is recurring. If the Recurring Job check box is selected, then the job queue entry is recurring. If the check box is cleared, the job queue entry is not recurring. After you specify that a job queue entry is a recurring one, you must specify on which days of the week the job queue entry is to run. Optionally, you can also specify a time of day for the job to run and how many minutes should elapse between runs.</source>
+          <target>Hiermee wordt opgegeven of het taakwachtrij-item periodiek is. Als het selectievakje Periodieke verwerking is ingeschakeld, is het taakwachtrij-item periodiek. Als het selectievakje is uitgeschakeld, is het taakwachtrij-item niet periodiek. Nadat u hebt opgegeven dat een taakwachtrij-item periodiek is, moet u opgeven op welke dagen van de week het taakwachtrij-item moet worden uitgevoerd. U kunt desgewenst ook een tijdstip opgeven waarop de taak moet worden uitgevoerd en aangeven hoeveel minuten moeten verstrijken tussen uitvoeringen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Job Queue Entries - Control Recurring Job - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3488128393 - Control 3431804371 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the job queue entry has been scheduled to run automatically, which happens when an entry changes status to Ready. If the field is cleared, the job queue entry is not scheduled to run.</source>
+          <target>Hiermee wordt opgegeven of het taakwachtrijpost is gepland om automatisch te worden uitgevoerd, wat gebeurt wanneer een post de status Gereed krijgt. Als het veld wordt gewist, wordt het taakwachtrij-item niet gepland om te worden uitgevoerd.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Job Queue Entries - Control Scheduled - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3488128393 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the status of the job queue entry. When you create a job queue entry, its status is set to On Hold. You can set the status to Ready and back to On Hold. Otherwise, status information in this field is updated automatically.</source>
+          <target>Hiermee wordt de status opgegeven van het taakwachtrij-item. Wanneer u een taakwachtrij-item maakt, wordt de status ervan ingesteld op Afwachten. U kunt de status instellen op Gereed en weer terugzetten op Afwachten. Verder wordt statusinformatie in dit veld automatisch bijgewerkt.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Job Queue Entries - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 924960576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Asker General Setup</source>
+          <target>Asker Algemene Instellingen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 924960576 - Control 3264110187 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the BC Connect API Base URL field.</source>
+          <target>Spcificeert de waarde van het API basis URL-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Setup - Control BC Connect API Base URL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 924960576 - Control 1705678046 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the key vault secret name for the BC connect api key.</source>
+          <target>Spcificeert de waarde van het apikey-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Setup - Control BC Connect Api Key KV Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 924960576 - Control 2835541777 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Functional</source>
+          <target>Functioneel</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Setup - Control functional - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 924960576 - Control 2737738244 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Functional Logging Active field.</source>
+          <target>Specificeert of functionele logging actief is.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Setup - Control Functional Logging Active - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 924960576 - Control 4141128493 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Technical</source>
+          <target>Technisch</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Setup - Control technical - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 924960576 - Control 2271046280 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Technical Logging Active field.</source>
+          <target>Specificeert of technische logging actief is.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Setup - Control Technical Logging Active - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 924960576 - Action 411110412 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ping BC Connect API</source>
+          <target>Ping de BC-Connect API</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Setup - Action Ping API - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 924960576 - Action 255891037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check KeyVault Connection</source>
+          <target>Controleer KeyVault-connectie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Setup - Action Test Key Vault - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2566990858 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Technical Log Entries</source>
+          <target>Technische logposten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Technical Log Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2566990858 - Control 1249475212 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Created field.</source>
+          <target>Specificeert de waarde van het aangemaakt-veld</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Technical Log Entries - Control Created - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2566990858 - Control 1789400218 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Level field.</source>
+          <target>Specificeert de waarde van het niveau-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Technical Log Entries - Control Level - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2566990858 - Control 3080618677 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Message field.</source>
+          <target>Specificeert de waarde van het bericht-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Technical Log Entries - Control Message - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2566990858 - Control 2187938695 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Service field.</source>
+          <target>Specificeert de waarde van het service-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Technical Log Entries - Control Service - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2566990858 - Control 2379948459 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Status Code field.</source>
+          <target>Specificeert de waarde van het statuscode-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Technical Log Entries - Control Status Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2566990858 - Control 2788029273 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Status Code Description field.</source>
+          <target>Specificeert de waarde van het statuscode-omschrijving-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Technical Log Entries - Control Status Code Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 149082292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Entry</source>
+          <target>Logpost</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Technical Log Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 149082292 - Control 1447994436 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Response</source>
+          <target>Foutrespons</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Technical Log Entry - Control Data - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 149082292 - Control 2482318504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Information</source>
+          <target>Foutinformatie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Technical Log Entry - Control Error Information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 149082292 - Control 3080618677 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Message field.</source>
+          <target>Specificeert de waarde van het bericht-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Technical Log Entry - Control Message - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 149082292 - Control 2206733951 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Path field.</source>
+          <target>Specificeert de waarde van het pad-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Technical Log Entry - Control Path - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 149082292 - Control 2187938695 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Service field.</source>
+          <target>Specificeert de waarde van het service-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Technical Log Entry - Control Service - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 149082292 - Control 2379948459 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Status Code field.</source>
+          <target>Specificeert de waarde van het statuscode-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Technical Log Entry - Control Status Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 149082292 - Control 2379948459 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status Code</source>
+          <target>Statuscode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Technical Log Entry - Control Status Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 149082292 - Control 2788029273 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Status Code Description field.</source>
+          <target>Specificeert de waarde van het statuscode-omschrijving-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Technical Log Entry - Control Status Code Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 149082292 - Control 2208278983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Metadata</source>
+          <target>Metadata</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Technical Log Entry - Control Meta - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 149082292 - Control 1249475212 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Created field.</source>
+          <target>Specificeert de waarde van het aangemaakt-veld</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Technical Log Entry - Control Created - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 149082292 - Control 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Entry No. field.</source>
+          <target>Specificeert de waarde van het postnr.-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Technical Log Entry - Control Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 149082292 - Control 1789400218 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Level field.</source>
+          <target>Specificeert de waarde van het niveau-veld.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CORE Technical Log Entry - Control Level - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Enum 1253419254 - EnumValue 2507687713 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BC Connect</source>
+          <target>BC Connect</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CORE API Provider - EnumValue BC Connect - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3034032561 - EnumValue 18652612 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <target></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CORE Department - EnumValue  - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3034032561 - EnumValue 17419004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finance</source>
+          <target>Financieel</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CORE Department - EnumValue Finance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3034032561 - EnumValue 960171255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IT</source>
+          <target>IT</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CORE Department - EnumValue IT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3034032561 - EnumValue 553059709 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Logistics</source>
+          <target>Logistiek</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CORE Department - EnumValue Logistics - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3034032561 - EnumValue 395510365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase</source>
+          <target>Inkoop</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CORE Department - EnumValue Purchase - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3034032561 - EnumValue 1406942772 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales</source>
+          <target>Verkoop</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CORE Department - EnumValue Sales - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 53137810 - EnumValue 536401205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Critical</source>
+          <target>Kritiek</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CORE Logging Level - EnumValue Critical - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 53137810 - EnumValue 2248886284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <target>Fout</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CORE Logging Level - EnumValue Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 53137810 - EnumValue 1602696467 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Informational</source>
+          <target>Ter Info</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CORE Logging Level - EnumValue Informational - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 53137810 - EnumValue 3955473374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warning</source>
+          <target>Waarschuwing</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CORE Logging Level - EnumValue Warning - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 218386290 - EnumValue 1392872285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Codeunit</source>
+          <target>Codeunit</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CORE Object Type - EnumValue Codeunit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 218386290 - EnumValue 438909893 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target>Pagina</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CORE Object Type - EnumValue Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 218386290 - EnumValue 1269526094 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Query</source>
+          <target>Query</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CORE Object Type - EnumValue Query - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 218386290 - EnumValue 3375155882 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report</source>
+          <target>Rapport</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CORE Object Type - EnumValue Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 218386290 - EnumValue 1500409770 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table</source>
+          <target>Tabel</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CORE Object Type - EnumValue Table - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 218386290 - EnumValue 1979631940 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XMLPort</source>
+          <target>XMPPort</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CORE Object Type - EnumValue XMLPort - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

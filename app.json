@@ -1,0 +1,31 @@
+{
+  "id": "b5ad75a2-d66f-46c0-bb50-029a01df679c",
+  "name": "System",
+  "publisher": "Bosman-Medireva",
+  "version": "23.0.10004.2",
+  "logo": "./Resources/bosman_logo.jpg",
+  "dependencies": [],
+  "propagateDependencies": true,
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": [    
+    "TranslationFile",
+    "NoImplicitWith",
+    "NoPromotedActionProperties"
+  ],
+  "target": "Cloud",
+  "suppressWarnings": ["LC0010"]
+}

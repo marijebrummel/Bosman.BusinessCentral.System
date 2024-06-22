@@ -1,0 +1,50 @@
+{
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50018,
+      "description": "From 50000 to 50018"
+    }
+  ],
+  "objectRanges": {
+    "codeunit": [
+      {
+        "from": 50000,
+        "to": 50014,
+        "description": "From 50000 to 50014"
+      }
+    ],
+    "page": [
+      {
+        "from": 50000,
+        "to": 50016,
+        "description": "From 50000 to 50016"
+      }
+    ],
+    "table": [
+      {
+        "from": 50000,
+        "to": 50009,
+        "description": "From 50000 to 50009"
+      }
+    ],
+    "report": [
+      {
+        "from": 1,
+        "to": 1,
+        "description": "None available"
+      } ],
+    "query": [
+      {
+        "from": 1,
+        "to": 1,
+        "description": "None available"
+      } ],
+    "xmlport": [
+      {
+        "from": 1,
+        "to": 1,
+        "description": "None available"
+      } ]
+  }
+}
