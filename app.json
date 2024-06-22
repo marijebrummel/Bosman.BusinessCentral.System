@@ -2,7 +2,7 @@
   "id": "b5ad75a2-d66f-46c0-bb50-029a01df679c",
   "name": "System",
   "publisher": "Bosman-Medireva",
-  "version": "23.0.10004.2",
+  "version": "23.0.20240622.0",
   "logo": "./Resources/bosman_logo.jpg",
   "dependencies": [],
   "propagateDependencies": true,
